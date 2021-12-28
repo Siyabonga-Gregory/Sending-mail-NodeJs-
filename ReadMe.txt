@@ -1,0 +1,1 @@
+Please, provide your mailing service detail into an .env file
