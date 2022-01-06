@@ -1,5 +1,5 @@
 # Sending-mail-NodeJs-
-Simple email testing using mailtrap  and NodeJs 
+Simple email testing using mailtrap  and NodeJs   
 
 Please, provide your mailing service detailS to the .env file
 
